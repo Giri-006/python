@@ -1,0 +1,205 @@
+Python:
+
+Interpreter
+C - Compile
+
+
+---------------------------------
+
+GEN AI --
+
+
+AI
+Generative AI
+Agentic AI
+
+Text, Code, Image, Video
+
+Features
+
+Dog -- cat
+
+text - prompt
+
+Generative AI
+
+ASSIGNMENT1: AI -- ARIVU
+ASSIGNMENT2: AI DATA CENTER
+
+
+ContentOP - Data Store Mysql
+
+--Textual Genration
+
+--Healthcare Reportisory
+
+--Corpus
+
+--Data Extraction
+
+--Database
+
+
+-------------------------------------
+
+
+File1:
+
+Gokul Kumar
+Karthikeyan
+Dharma Raj
+Indria Kumar
+Tamil Selvan
+
+-----------------------------------
+I am Lenin Tharsan
+
+I AM $name
+
+-------------------------------------
+
+I AM Gokul Kumar
+I AM Karthikeyan
+I AM Dharma Raj
+I AM Indria Kumar
+I AM Tamil Selvan
+
+-----------------------------------
+
+I AM Gokul Kumar 
+
+40 - 50 Line paragraph
+
+------------------------------------
+
+I AM $name
+
+S V C
+
+
+-------------------------------------
+
+
+I AM TEACHING IN AIMORE TECHNOLGOIES.
+
+PYTHON
+ML
+DL
+GEN AI
+
+AGENTIC AI
+
+-------------------------------------
+
+PYTHON
+ML -- 2/2  -- 4/5  -- EXCEL --
+DL -- PYTHON --
+GEN AI --
+	NLP
+	RAG
+	LANGCHAIN
+	LAGNGRAPH
+		CHATBOT
+		RESPONSE
+
+.
+.
+.
+
+LIMITATION
+
+-------------------------------------
+
+CRAWLER
+
+CORPUS/AI DATA CENTER
+RAW/NUMBERS-->WEIGHTAGE->DIRECTION
+
+------------------------------------
+
+PREDICTIVE ANALYTICS--HISTORICAL DATA
+
+ML: -- Prediction -- Probablity
+
+GEN AI:
+i am wirting --> Model --> WheTHER i want to write something. Tell me content.
+
+-- probablity
+
+ML 
+
+1. Supervised Learning
+   y = f(x)
+       f(x) -- x = -2, -1, 0 , 1, 2, 3 = y = constant
+	z= f(x) -- x2 + y2 = 1 -- circle
+	   f(x) -- ex = = -2, -1, 0 , 1, 2, 3, 4, 5, ..... = y = exponential curve
+	   
+x, y -- independent variable/feature
+	
+	1. classification
+	2. REgression
+
+2. Unsupervised Learing
+    1. Methods
+	
+
+Deep Learning:
+
+N - number of deep learning Algorithm
+
+Robotic
+
+DALL E.3
+	Algorithm
+	
+	
+-------------------------------------
+
+
+ASSIGNMENT:
+
+ML - Algorithms
+DL - Algorithms
+
+-------------------------------------
+BEST FOR GIVEN INPUT DATASET:
+=============================
+AGENTIC AI
+AGENTIC AI
+AGENTIC AI
+
+
+SACHIN WILL HIT SIXER OR NOT
+YES OR NO
+
+-------------------------------------
+
+ALGORITHM -- MODEL -- NAME
+
+API_KEY
+VECTOR DB -- SQL, NOSQL
+LANGCHAIN, LANGGRAPH
+
+-------------------------------------
+
+1. CUSTOMER UI
+   -- CHATBOT  -- Model
+   1. Test Cases
+   2. Test scenario for available
+   3. Chat application  -- real users
+   4. Generation code
+   
+   
+Python
+
+OOPS --- Basic
+
+
+-------------------------------------------------------------------------
+
+
+JUPYTER NOTEBOOK -- .ipynb  -- Anaconda 
+COMMAND PROMPT  -- .py
+VISUAL STUDIO  -- extension
+PYCHARM
+GOOGLE COLAB
