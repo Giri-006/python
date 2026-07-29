@@ -1,0 +1,47 @@
+
+Problem statement:
+
+1 0 0 1 1 0 1 0 1 1 0 ?
+
+
+1. TEXTUAL REPRESENTATION  --- TEXT(CHINESE) TO TEXT(ENGLISH)
+2. AUDIO SEQUECEING  --- AUDIO(ENGLISH) TO TEXT(ENGLISH)
+
+
+1. AUDIO MODELS
+2. LLM
+
+
+I AM LEARING DEEP NEURAL NETWORKS.
+
+LIQUID ID -- AUDIO MODELS
+
+ASSIGNMENT1: SLM -- LIST OF SMALLL LANGUAGE MODEL
+ASSIGNMENT2: GPT -- NUMBER OF PARAMETER
+
+
+NN -- SINGLE NEURON -- PERCEPTRON
+
+X1 .. Xn 
+
+
+how a single preceptron accepts n number of inputs and 
+compute it output  by multiply with its corresponding weights,
+to arrrive for its final output
+
+X1 --> W1  -- W1 * X1
+X2 --> W2  -- W2 * X2
+
+
+(W1 * X1) + (W2 * X2) ==> ACTIVATION FUNCTION  ===> OUTPUT
+(W1 * X1) + (W2 * X2) ==> ACTIVATION FUNCTION  ===> OUTPUT
+(W1 * X1) + (W2 * X2) ==> ACTIVATION FUNCTION  ===> OUTPUT
+(W1 * X1) + (W2 * X2) ==> ACTIVATION FUNCTION  ===> OUTPUT
+(W1 * X1) + (W2 * X2) ==> ACTIVATION FUNCTION  ===> OUTPUT
+(W1 * X1) + (W2 * X2) ==> ACTIVATION FUNCTION  ===> OUTPUT
+(W1 * X1) + (W2 * X2) ==> ACTIVATION FUNCTION  ===> OUTPUT
+
+
+ASSIGNMENT3: LIST OF ALL THE ACTIVATION FUNCTION IN NN
+
+2 LINEAR FUNCTION -- LINEAR IN NATURE
